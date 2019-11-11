@@ -1,0 +1,12 @@
+C:\Users\thboop\source\repos\test\test\obj\Debug\netcoreapp2.2\test.csprojAssemblyReference.cache
+C:\Users\thboop\source\repos\test\test\obj\Debug\netcoreapp2.2\test.csproj.CoreCompileInputs.cache
+C:\Users\thboop\source\repos\test\test\obj\Debug\netcoreapp2.2\test.AssemblyInfoInputs.cache
+C:\Users\thboop\source\repos\test\test\obj\Debug\netcoreapp2.2\test.AssemblyInfo.cs
+C:\Users\thboop\source\repos\test\test\bin\Debug\netcoreapp2.2\test.deps.json
+C:\Users\thboop\source\repos\test\test\bin\Debug\netcoreapp2.2\test.runtimeconfig.json
+C:\Users\thboop\source\repos\test\test\bin\Debug\netcoreapp2.2\test.runtimeconfig.dev.json
+C:\Users\thboop\source\repos\test\test\bin\Debug\netcoreapp2.2\test.dll
+C:\Users\thboop\source\repos\test\test\bin\Debug\netcoreapp2.2\test.pdb
+C:\Users\thboop\source\repos\test\test\obj\Debug\netcoreapp2.2\test.dll
+C:\Users\thboop\source\repos\test\test\obj\Debug\netcoreapp2.2\test.pdb
+C:\Users\thboop\source\repos\test\test\bin\Debug\netcoreapp2.2\test.ps1
